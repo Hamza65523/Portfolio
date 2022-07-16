@@ -140,7 +140,7 @@
 }
 @media only screen and (min-width:360px)and (max-width:400px) {
     .works{
-        padding: 5rem 0;
+        padding: 0 0;
         width: 18rem;
     }
     .works .awesome{

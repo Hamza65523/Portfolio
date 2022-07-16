@@ -10,8 +10,6 @@
 .portfolio span:nth-of-type(1){
     font-size: 2rem;
     font-weight: bold;
-    display: block;
-    margin-top: 5rem;
 }
 .portfolio .swiper{
     overflow: visible !important;
