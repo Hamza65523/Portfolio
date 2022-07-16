@@ -98,7 +98,6 @@
     .works{
         flex-direction: column;
         height: 33rem;
-        padding: 0;
         gap: 3rem;
         margin-bottom: 5rem;
     }
@@ -137,5 +136,14 @@
     .yellowCircle{
         left: 7rem;
         top: 6rem;
+    }
+}
+@media only screen and (min-width:360px)and (max-width:400px) {
+    .works{
+        padding: 0;
+        width: 18rem;
+    }
+    .works .awesome{
+        margin-right: 2rem;
     }
 }
