@@ -3,13 +3,11 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    /* height: 100vh; */
     margin-top: 10rem;
 }
 
 /* heading  */
 .portfolio span:nth-of-type(1){
-    /* color: var(--black); */
     font-size: 2rem;
     font-weight: bold;
 }
