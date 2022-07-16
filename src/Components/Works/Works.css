@@ -99,7 +99,7 @@
         flex-direction: column;
         height: 33rem;
         gap: 3rem;
-        margin-bottom: 5rem;
+        margin-bottom: 5rem !important;
     }
     .w-right{
         display: flex;
