@@ -1,0 +1,77 @@
+.services{
+    padding: 0 3rem 0 3rem;
+    display: flex;
+    height: 90vh;
+    /* margin-bottom: 8rem; */
+    margin-top: 9rem;
+    margin-bottom: 14rem;
+}
+.awesome{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    flex: 1;
+}
+.awesome> :nth-child(1){
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.awesome> :nth-child(2){
+    color: var(--lightblue);
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+.awesome> :nth-child(3){
+    color: var(--gray);
+    font-size: 14px;
+    font-size: 1rem;
+}
+.s-button{
+    width: 8rem;
+    height: 2rem;
+    margin-top: 2rem;
+}
+/* blur  */
+.s-blur2{
+    left: 14rem;
+    top: 8rem;
+}
+.s-blur1{
+    top: 13rem;
+    left: -18rem;
+}
+@media only screen and  (min-width:768px)and (max-width:820px){
+    .services{
+        padding: 0;
+        margin-bottom: 0;
+    }
+    .awesome span:nth-of-type(3){
+        display: none;
+    }
+    .cards{
+        left: -9rem;
+    }
+}
+@media only screen and (max-width:480px) {
+    .services{
+        margin-top: 0;
+        flex-direction: column;
+        gap: 5rem;
+        height: 66rem;
+        padding: 0;
+        text-align: center;
+    }
+    .awesome{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .cards{
+        display: flex;
+        flex-direction: column;
+        gap: 17rem;
+    }
+    .cards>*{
+        position: static !important;
+    }
+}

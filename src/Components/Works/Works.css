@@ -1,0 +1,138 @@
+.works{
+    padding: 0 3rem 0 3rem;
+    display: flex;
+    height: 90vh;
+    margin-top: 4rem;
+}
+.works .awesome{
+    flex: 1;
+}
+/* right sid */
+.w-right{
+    flex: 1;
+    position: relative;
+}
+.w-mainCircle{
+    left: 9rem;
+    position: relative;
+    width: 18rem;
+    height: 18rem;
+    border-radius: 100%;
+    box-shadow: var(--smboxShadow);
+    top: 2rem;
+    background: white;
+}
+.w-mainCircle>*{
+    position: absolute;
+
+}
+.w-mainCircle>:nth-child(1){
+    top: -3rem;
+    left: 6rem;
+}
+
+.w-mainCircle>:nth-child(2){
+    top: 6rem;
+    left: -3rem;
+}
+.w-mainCircle>:nth-child(3){
+    top: 6rem;
+    left: 6rem;
+}
+.w-mainCircle>:nth-child(4){
+    top: 15rem;
+    left: 6rem;
+}
+.w-mainCircle>:nth-child(5){
+    top: 6rem;
+    left: 14rem;
+}
+.w-secCircle{
+    width: 6rem;
+    height: 6rem;
+    position: absolute;
+    border-radius: 100%;
+    border: 5px solid #ebebeb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    box-shadow: var(--smboxShadow);
+}
+.w-secCircle>img{
+    transform: scale(0.6);
+}
+.w-backCircle{
+    position: absolute;
+    height: 13rem;
+    width: 13rem;
+    border-radius: 100%;
+    z-index: 1;
+}
+.blueCircle{
+    background-color: #1949b8;
+    left: 16rem;
+    top: 1rem;
+    z-index: -1;
+}
+.yellowCircle{
+    background-color: #f5c32c;
+    left: 17rem;
+    top: 9rem;
+    z-index: -1;
+
+}
+@media only screen and  (min-width:768px)and (max-width:820px){
+
+    .works{
+        padding: 0;
+        height: 60vh;
+    }
+    .w-right{
+        left: -9rem;
+    }
+}
+@media only screen and (max-width:480px) {
+    .works{
+        flex-direction: column;
+        height: 33rem;
+        padding: 0;
+        gap: 3rem;
+    }
+    .w-right{
+        display: flex;
+        align-content: flex-start;
+        justify-content: start;
+        transform: scale(0.7);
+    }
+    .awesome{
+        flex: none !important;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .awesome span{
+        font-size: 2rem !important;
+    }
+    .awesome span:nth-of-type(3){
+        display: none;
+    }
+    .s-button{
+        margin-top: 1rem;
+    }
+    .w-mainCircle{
+
+        position: static;
+    }
+    .w-right{
+        left: 0rem !important;
+    }
+    .blueCircle{
+        left: 7rem;
+        top: 0rem;
+    }
+    .yellowCircle{
+        left: 7rem;
+        top: 6rem;
+    }
+}

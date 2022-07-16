@@ -1,0 +1,48 @@
+:root {
+  --yellow: #21bffc; 
+  --lightblue: #21bffc ;
+  --black: #242D49;
+  --gray: #788097;
+  --blueCard: #DDF8FE;
+  --purple: rgb(238 210 255);
+  --boxShadow: 0px 19px 60px rgb(0 0 0 / 8%);
+  --lightblueCard: #21bffc;
+  --smboxShadow: -79px 51px 60px rgba(0, 0, 0, 0.08);
+}
+@font-face {
+  font-family: Gumela;
+  src: url(../src/fonts/Gumela\ Regular.otf);
+}
+*{
+  font-family: 'Gumela';
+  /* font-size: 15px; */
+  font-weight: normal;
+}
+.App {
+  padding: 0.5rem 3.5rem;
+  overflow: hidden;
+  color: var(--black);
+}
+.button{
+  border-radius: 34px;
+  border: none;
+  color: white;
+  font-size: 16px;
+  padding: 11px 26px 11px 26px;
+  background: linear-gradient(180deg, #21bffc
+  26.71%,#21bffc  99.36% );
+  box-shadow: -5px 76px 107px -17px rgba(33,191,252,1);
+}
+.button:hover{
+  background: white;
+  cursor: pointer;
+  color: var(--lightblue);
+  border: 1px solid var(--lightblue);
+}
+
+
+@media only screen and (max-width: 480px){
+  .App{
+    padding: 0.5rem 1rem;
+  }
+}
