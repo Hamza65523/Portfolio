@@ -142,6 +142,7 @@
     .works{
         padding: 0;
         width: 18rem;
+        margin-bottom: 5rem;
     }
     .works .awesome{
         margin-right: 2rem;
