@@ -3,8 +3,8 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    height: 100vh;
-    margin-top: 4rem;
+    /* height: 100vh; */
+    margin-top: 10rem;
 }
 
 /* heading  */

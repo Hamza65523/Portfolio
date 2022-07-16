@@ -1,9 +1,10 @@
 .works{
     padding: 0 3rem 0 3rem;
     display: flex;
-    height: 90vh;
+    /* height: 90vh; */
     margin-top: 4rem;
-    margin-bottom: 4rem;
+    /* padding: 4rem 0; */
+    text-align: center;
 }
 .works .awesome{
     flex: 1;
@@ -87,7 +88,7 @@
 
     .works{
         padding: 0;
-        height: 60vh;
+        /* height: 60vh; */
     }
     .w-right{
         left: -9rem;
