@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.d0cd0d9f.css",
+    "main.js": "/Portfolio/static/js/main.e885500e.js",
+    "static/media/fastfood12.png": "/Portfolio/static/media/fastfood12.e8d0a28a9c07cf3532e9.png",
+    "static/media/1.png": "/Portfolio/static/media/1.a38d0fa3284c27ed3f4b.png",
+    "static/media/fastfood123456.png": "/Portfolio/static/media/fastfood123456.1b16d3f6634011dee572.png",
+    "static/media/fastfood1.png": "/Portfolio/static/media/fastfood1.5e5c8f3b7e972fb56b6c.png",
+    "static/media/5.png": "/Portfolio/static/media/5.07403ac18cd6f920cff4.png",
+    "static/media/2.png": "/Portfolio/static/media/2.943b237db311be78996b.png",
+    "static/media/Ecommerce2.png": "/Portfolio/static/media/Ecommerce2.b2ed1c7fd8f9d5e335f3.png",
+    "static/media/fastfood123.png": "/Portfolio/static/media/fastfood123.138b5fe9c3e609fc5eee.png",
+    "static/media/Ecommerce1.png": "/Portfolio/static/media/Ecommerce1.4b3938c0aedfdcedef7b.png",
+    "static/media/4.png": "/Portfolio/static/media/4.2c3eeadc922c126f9e24.png",
+    "static/media/Ecommerce3.png": "/Portfolio/static/media/Ecommerce3.f98e264e1d40bdc29f71.png",
+    "static/media/Ecommerce4.png": "/Portfolio/static/media/Ecommerce4.098ed3c136bff0505588.png",
+    "static/media/fastfood1234.png": "/Portfolio/static/media/fastfood1234.6d11d789a308aed7adbc.png",
+    "static/media/fastfood12345.png": "/Portfolio/static/media/fastfood12345.adb15483f89785c86a54.png",
+    "static/media/boy.png": "/Portfolio/static/media/boy.5d4b3c94ab30a367e910.png",
+    "static/media/resume.pdf": "/Portfolio/static/media/resume.ed9f9bfffb06d3648747.pdf",
+    "static/media/3.png": "/Portfolio/static/media/3.00d2058acd4f9ad0617b.png",
+    "static/media/boy1.png": "/Portfolio/static/media/boy1.2f3525e3482027745d84.png",
+    "static/media/glassesimoji.png": "/Portfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/Ecommerce6.png": "/Portfolio/static/media/Ecommerce6.0b1350ed3683c567ac46.png",
+    "static/media/Ecommerce5.png": "/Portfolio/static/media/Ecommerce5.2c6a3eea75d6e177133a.png",
+    "static/media/Gumela Regular.otf": "/Portfolio/static/media/Gumela Regular.0ae83c6988a536716eb4.otf",
+    "static/media/thumbup.png": "/Portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/Portfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/Portfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/Vector2.png": "/Portfolio/static/media/Vector2.4b7e987dc9a223f0f5db.png",
+    "static/media/crown.png": "/Portfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/glasses.png": "/Portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/wave.png": "/Portfolio/static/media/wave.a8af0b26f3efdd426516.png",
+    "index.html": "/Portfolio/index.html",
+    "main.d0cd0d9f.css.map": "/Portfolio/static/css/main.d0cd0d9f.css.map",
+    "main.e885500e.js.map": "/Portfolio/static/js/main.e885500e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0cd0d9f.css",
+    "static/js/main.e885500e.js"
+  ]
+}
