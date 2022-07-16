@@ -94,7 +94,7 @@
         left: -9rem;
     }
 }
-@media only screen and (max-width:480px) {
+@media only screen and (min-width:410px) and (max-width:480px)  {
     .works{
         flex-direction: column;
         height: 33rem;
