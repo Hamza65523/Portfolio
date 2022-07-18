@@ -30,23 +30,23 @@ const Portfolio = () => {
         grabCursor={true}
         className='portfolio-slider'>
             <SwiperSlide>
-                <img src={Ecommerce1} alt="" />
+               <a href="https://hamza65523.github.io/E-commerce/index.html"> <img src={Ecommerce1} alt="" /></a>
                 
             </SwiperSlide>
             <SwiperSlide>
-                <img src={Ecommerce2} alt="" />
+               <a href="https://hamza65523.github.io/E-commerce/index.html"> <img src={Ecommerce2} alt="" /></a>
             </SwiperSlide>
             <SwiperSlide>
-                <img src={Ecommerce3} alt="" />
+               <a href="https://hamza65523.github.io/E-commerce/index.html"> <img src={Ecommerce3} alt="" /></a>
             </SwiperSlide>
             <SwiperSlide>
-                <img src={Ecommerce4} alt="" />
+               <a href="https://hamza65523.github.io/E-commerce/index.html"> <img src={Ecommerce4} alt="" /></a>
             </SwiperSlide>
             <SwiperSlide>
-                <img src={Ecommerce5} alt="" />
+               <a href="https://hamza65523.github.io/E-commerce/index.html"> <img src={Ecommerce5} alt="" /></a>
             </SwiperSlide>
             <SwiperSlide>
-                <img src={Ecommerce6} alt="" />
+               <a href="https://hamza65523.github.io/E-commerce/index.html"> <img src={Ecommerce6} alt="" /></a>
             </SwiperSlide>
         </Swiper>
         <Swiper 
@@ -55,23 +55,23 @@ const Portfolio = () => {
         grabCursor={true}
         className='portfolio-slider'>
             <SwiperSlide>
-                <img src={Fastfoood1} alt="" />
+               <a href=""> <img src={Fastfoood1} alt="" /></a>
                 
             </SwiperSlide>
             <SwiperSlide>
-                <img src={Fastfoood2} alt="" />
+               <a href=""> <img src={Fastfoood2} alt="" /></a>
             </SwiperSlide>
             <SwiperSlide>
-                <img src={Fastfoood3} alt="" />
+               <a href=""> <img src={Fastfoood3} alt="" /></a>
             </SwiperSlide>
             <SwiperSlide>
-                <img src={Fastfoood4} alt="" />
+               <a href=""> <img src={Fastfoood4} alt="" /></a>
             </SwiperSlide>
             <SwiperSlide>
-                <img src={Fastfoood5} alt="" />
+               <a href=""> <img src={Fastfoood5} alt="" /></a>
             </SwiperSlide>
             <SwiperSlide>
-                <img src={Fastfoood6} alt="" />
+               <a href=""> <img src={Fastfoood6} alt="" /></a>
             </SwiperSlide>
         </Swiper>
         <Swiper 
@@ -80,17 +80,17 @@ const Portfolio = () => {
         grabCursor={true}
         className='portfolio-slider'>
             <SwiperSlide>
-                <img src={Socialmedia1} alt="" />
+               <a href="https://hamza65523.github.io/Social-media-website/"> <img src={Socialmedia1} alt="" /></a>
                 
             </SwiperSlide>
             <SwiperSlide>
-                <img src={Socialmedia2} alt="" />
+               <a href="https://hamza65523.github.io/Social-media-website/"> <img src={Socialmedia2} alt="" /></a>
             </SwiperSlide>
             <SwiperSlide>
-                <img src={Socialmedia3} alt="" />
+               <a href="https://hamza65523.github.io/Social-media-website/"> <img src={Socialmedia3} alt="" /></a>
             </SwiperSlide>
             <SwiperSlide>
-                <img src={Socialmedia4} alt="" />
+               <a href="https://hamza65523.github.io/Social-media-website/"> <img src={Socialmedia4} alt="" /></a>
             </SwiperSlide>
         
         </Swiper>
